@@ -1,0 +1,38 @@
+#btn
+{
+    margin-top:50px;
+    font-size:2.5rem;
+    border:1px solid green;
+    background: linear-gradient(to  right,rgb(95, 176, 214),rgb(101, 15, 163),rgb(92, 157, 232));
+    color:white;
+    padding:10px 35px;
+    border-radius: 30px;
+    font-family: poppins,sans-serif;
+    font-weight: bold;
+    letter-spacing: 5px;
+    cursor: pointer;
+}  
+.btn-center
+{
+    display: flex;
+    justify-content: center;
+    flex-direction:column ;
+    align-items: center;
+} 
+h1{
+    text-align: center;
+    font-size: 2.8rem;
+}
+.labels
+{
+    font-size: 3rem;
+    margin-right:20px
+    
+}
+.label-container
+{
+    display:flex;
+    justify-content: center;
+     align-items: center;
+
+}
